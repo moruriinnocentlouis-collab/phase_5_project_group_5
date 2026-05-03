@@ -348,6 +348,7 @@ After running the notebook, launch the application with:
     streamlit run app.py
 
 Then open a browser at http://localhost:8501.
+Public link: https://phase5projectgroup5-awkluggptkz7vty9tsahtk.streamlit.app/
 
 Hosting on Streamlit Community Cloud
 --------------------------------------
